@@ -1,0 +1,11 @@
+{
+  "_id": {
+    "$oid": "642425d0629a2178e905be9a"
+  },
+  "firstName": "Jona",
+  "lastName": "Ruto",
+  "userAge": 0,
+  "emailAddress": "jonaruto@gmai.com",
+  "password": "test",
+  "_class": "com.example.pfmdemo.model.User"
+}
